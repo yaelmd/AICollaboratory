@@ -1,4 +1,4 @@
-# AICollaboratory
+# AICollaboratory :globe_with_meridians:
 Instance level data extracted from BigBench to integrate in [AICollaboratory](https://ai-collaboratory.jrc.ec.europa.eu/)
 
 
